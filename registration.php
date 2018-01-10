@@ -6,6 +6,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Faonni_NewsletterHeader',
+    'Faonni_Newsletter',
     __DIR__
 );

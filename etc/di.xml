@@ -12,6 +12,6 @@
 	plugin
 	-->	
     <type name="\Magento\Newsletter\Model\Queue\TransportBuilder">
-        <plugin name="faonni_newsletterheader" type="Faonni\NewsletterHeader\Plugin\Newsletter\Model\Queue\TransportBuilder" />
+        <plugin name="faonni_newsletter" type="Faonni\Newsletter\Plugin\Newsletter\Model\Queue\TransportBuilder" />
     </type>
 </config>

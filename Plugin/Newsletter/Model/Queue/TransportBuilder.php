@@ -4,7 +4,7 @@
  *
  * See COPYING.txt for license details.
  */
-namespace Faonni\NewsletterHeader\Plugin\Newsletter\Model\Queue;
+namespace Faonni\Newsletter\Plugin\Newsletter\Model\Queue;
 
 use Magento\Framework\Mail\MessageInterface;
 use Magento\Framework\Mail\TransportInterface;
