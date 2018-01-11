@@ -1,6 +1,6 @@
 {
     "name": "faonni/module-newsletter",
-    "description": "",
+    "description": "Extension include a List-Unsubscribe header in your newsletter emails.",
     "type": "magento2-module",
 	"version": "2.0.1",
     "authors": [{
