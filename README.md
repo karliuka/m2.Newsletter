@@ -1,4 +1,4 @@
-# Magento2 TrackingLink
+# Magento2 Newsletter
 
 Extension include a List-Unsubscribe header in your newsletter emails.
 
